@@ -1,6 +1,80 @@
 #EXTM3U 
 
 ########################################
+###ช่องทีวีดิจิตอล###
+########################################
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล",NBTHD
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล",ThaiPBSHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186620&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="ช่องทีวีดิจิตอล",VIPA
+http://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล",CH5 HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186423&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล",T-SPorts7
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล",TPTV
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186410&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล",TNN16
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186626&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png" group-title="ช่องทีวีดิจิตอล",JKN18
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="ช่องทีวีดิจิตอล",NationTV
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล",WorkpointTV
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล",True4U
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563013&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล",GMM25
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186494&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล",CH8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="ช่องทีวีดิจิตอล",MONO29
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186531&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlusHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186380&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Music_new.png" group-title="ช่องทีวีดิจิตอล",Mono29Music
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563008&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล",MCOTHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186530&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล",ONE31
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186495&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล",ThairathTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186622&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล",CH3HD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186421&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล",AmarinTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186379&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล",CH7HD
+#EXTVLCOPT:http-referrer=https://tv.soodaza.com/
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล",PPTVHD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186560&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล",TopNewsHD
+http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล",News1
+http://server1.streamssl.com/stream/news1_mid.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png" group-title="ช่องทีวีดิจิตอล",PoliceTV
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186557&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="ช่องทีวีดิจิตอล",13สยามไท
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="ช่องทีวีดิจิตอล", สุวรรณภูมิทีวี
+http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNlHC8AT7sZOLzCqWT3c-_UzBMH_iQt_7n6qpI5UmkKTfC113-iVTej3Hr2BI1PAPi6A&usqp=CAU"group-title="ช่องทีวีดิจิตอล",NBT ภาคกลาง
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id=""tvg-logo="https://nbtkhonkaen.prd.go.th/th/file/get/type/thumbnail/file/202502058fa150a9a1e6f99ae474605fe43d742b141732.png"group-title="ช่องทีวีดิจิตอล",NBT ภาคอีสาน
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Jx8WNuSwNQXeMrzQvItTToEgW0w42k4SHA&s"group-title="ช่องทีวีดิจิตอล",NBT ภาคเหนือ
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://yt3.googleusercontent.com/-d8t7MX6bpAbCH3VAvsVpkqZvKfN2d5XR9fFyGosPW-cJ5bBJ4EkxgyFmEIV_TO_TXli2XeGTA=s900-c-k-c0x00ffffff-no-rj"group-title="ช่องทีวีดิจิตอล",NBT ภาคใต้
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+
+
+########################################
 ###ช่องAIS###
 ########################################
 
